@@ -1,4 +1,4 @@
-# Frontend Mentor - Order summary card
+![image](https://github.com/hamoz07/order-summary-card-css-challenge/assets/112629005/b0460db2-439d-4124-b17e-bc67616a0abd)# Frontend Mentor - Order summary card
 
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
@@ -21,6 +21,13 @@ Your users should be able to:
 - See hover states for interactive elements
 
 Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
+## Live Demo
+
+live project: https://hamoz07.github.io/order-summary-card-css-challenge/
+
+#screenshot
+![image](https://github.com/hamoz07/order-summary-card-css-challenge/assets/112629005/f4773813-e6b3-41bc-82a5-1f6abf9bb2c1)
+
 
 ## Where to find everything
 
